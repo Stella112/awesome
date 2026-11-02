@@ -15,6 +15,10 @@
 - [Knock](https://knockchat.org) ([Source](https://github.com/kaichaosun/knock-chat)) ([@kaichaosun](https://github.com/kaichaosun)): Chat on Nimiq. For friends, family and community - not for spam.
 - [Nimiq Space](https://nimiq.space) ([Source](https://github.com/harlski/nspace)) ([@harlski](https://github.com/harlski)): Social-first multiplayer sandbox, build, create, earn.
 
+#### Marketplaces
+
+- [SwapSpace](https://swapspace.nimpay.app/) ([@nimiq](https://github.com/nimiq)): Swap NIM and USDT with almost any coin, comparing offers from SwapSpace's exchange partners, right in Nimiq Pay
+
 #### Productivity
 
 - [NimBooks](https://nimbooks.subimpact.net) ([Source](https://github.com/subimpact/nimbooks)) ([@subimpact](https://github.com/subimpact)): The books for your Nimiq wallet: balances, history, statements, payment requests, and signed proof-of-payment receipts.
