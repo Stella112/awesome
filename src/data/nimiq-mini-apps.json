@@ -151,7 +151,7 @@
     "logo": "./assets/mini-apps/eligioo-nimtris.svg",
     "source": "https://github.com/eligioo/nimtris",
     "developer": "@Eligioo",
-    "featured": true
+    "featured": false
   },
   {
     "name": "OpenSea",
@@ -228,7 +228,7 @@
     "logo": "./assets/mini-apps/nimiq-swapspace.svg",
     "source": null,
     "developer": "@nimiq",
-    "featured": false
+    "featured": true
   },
   {
     "name": "Uniswap",
