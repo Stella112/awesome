@@ -1,16 +1,16 @@
 {
   "nimiq": [
     {
-      "name": "Nimtris",
-      "url": "https://nimtris.com",
+      "name": "SwapSpace",
+      "url": "https://swapspace.nimpay.app/",
       "type": "nimiq",
-      "category": "Games",
-      "description": "Block puzzle game that rewards your high scores with NIM while playing",
-      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/eligioo-nimtris.svg",
-      "source": "https://github.com/eligioo/nimtris",
-      "developer": "@Eligioo",
+      "category": "Marketplaces",
+      "description": "Swap NIM and USDT with almost any coin, comparing offers from SwapSpace's exchange partners, right in Nimiq Pay",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/nimiq-swapspace.svg",
+      "source": null,
+      "developer": "@nimiq",
       "featured": true,
-      "slug": "nimtris"
+      "slug": "swapspace"
     },
     {
       "name": "AbaPay",
@@ -121,6 +121,18 @@
       "slug": "nimstamp"
     },
     {
+      "name": "Nimtris",
+      "url": "https://nimtris.com",
+      "type": "nimiq",
+      "category": "Games",
+      "description": "Block puzzle game that rewards your high scores with NIM while playing",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/eligioo-nimtris.svg",
+      "source": "https://github.com/eligioo/nimtris",
+      "developer": "@Eligioo",
+      "featured": false,
+      "slug": "nimtris"
+    },
+    {
       "name": "PACT",
       "url": "https://pact-nimiq.vercel.app",
       "type": "nimiq",
@@ -167,18 +179,6 @@
       "developer": "@Harshyadav442277",
       "featured": false,
       "slug": "rewind"
-    },
-    {
-      "name": "SwapSpace",
-      "url": "https://swapspace.nimpay.app/",
-      "type": "nimiq",
-      "category": "Marketplaces",
-      "description": "Swap NIM and USDT with almost any coin, comparing offers from SwapSpace's exchange partners, right in Nimiq Pay",
-      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/nimiq-swapspace.svg",
-      "source": null,
-      "developer": "@nimiq",
-      "featured": false,
-      "slug": "swapspace"
     }
   ],
   "evm": [
